@@ -1,0 +1,115 @@
+{
+  "name": "better-spellcheck",
+  "main": "./lib/better-spellcheck.js",
+  "version": "0.1.0",
+  "description": "Better spellchecking and suggestions for Atom",
+  "author": "Kerolos Zaki <kerolos4zaki@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "spellcheck",
+    "spell-check"
+  ],
+  "repository": "https://gitlab.com/ker0olos/atom-better-spellcheck",
+  "configSchema": {
+    "knownWords": {
+      "title": "Known Words",
+      "type": "array",
+      "description": "List of words to ignore during spell checking",
+      "default": [],
+      "order": 1
+    },
+    "enabledLanguages": {
+      "title": "Enabled Languages",
+      "type": "array",
+      "description": "List of the file types that will be checked",
+      "default": [
+        "c",
+        "c++",
+        "c#",
+        "coffeescript",
+        "css",
+        "go",
+        "html",
+        "pug",
+        "javascript",
+        "javascript react",
+        "jsdoc",
+        "json",
+        "less",
+        "git commit message",
+        "git rebase message",
+        "github markdown",
+        "php",
+        "objective-c",
+        "objective-c++",
+        "plain text",
+        "python",
+        "ruby",
+        "ruby on rails",
+        "scss",
+        "typescript",
+        "typescriptreact",
+        "xml",
+        "yaml"
+      ],
+      "order": 2
+    },
+    "ignorePaths": {
+      "title": "Ignore Paths",
+      "type": "array",
+      "description": "List of paths/files to ignore",
+      "default": [
+        "**/package-lock.json",
+        "**/node_modules/**",
+        "**/.git/**"
+      ],
+      "order": 3
+    },
+    "characterLimit": {
+      "title": "Character Limit",
+      "type": "integer",
+      "description": "If a file has more than or equal to this character limit it won't be checked",
+      "default": 5000,
+      "minimum": 1,
+      "order": 4
+    },
+    "cases": {
+      "title": "Ignore Cases",
+      "type": "object",
+      "properties": {
+        "camelCase": {
+          "title": "Camel Case",
+          "description": "camelCase",
+          "type": "boolean",
+          "default": true,
+          "order": 1
+        },
+        "snakeCase": {
+          "title": "Snake Case",
+          "description": "snake_case",
+          "type": "boolean",
+          "default": true,
+          "order": 2
+        },
+        "allCase": {
+          "title": "All Caps",
+          "description": "ALLCaps",
+          "type": "boolean",
+          "default": true,
+           "order": 3
+        }
+      },
+      "order": 5
+    }
+  },
+  "dependencies": {
+    "spellchecker": "^3.5.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0"
+  }
+}
