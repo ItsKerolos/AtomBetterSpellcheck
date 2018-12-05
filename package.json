@@ -17,14 +17,14 @@
     "knownWords": {
       "title": "Known Words",
       "type": "array",
-      "description": "List of words to ignore during spell checking",
+      "description": "List of words to ignore during spellchecking",
       "default": [],
       "order": 1
     },
-    "enabledLanguages": {
-      "title": "Enabled Languages",
+    "enabledGrammars": {
+      "title": "Enabled Grammars",
       "type": "array",
-      "description": "List of the file types that will be checked",
+      "description": "List of the grammars that will be spellchecked",
       "default": [
         "c",
         "c++",
@@ -35,7 +35,6 @@
         "html",
         "pug",
         "javascript",
-        "javascript react",
         "jsdoc",
         "json",
         "less",
@@ -71,8 +70,8 @@
     "characterLimit": {
       "title": "Character Limit",
       "type": "integer",
-      "description": "If a file has more than or equal to this character limit it won't be checked",
-      "default": 5000,
+      "description": "If a file has more than or equal to this character limit it won't be spellchecked",
+      "default": 25000,
       "minimum": 1,
       "order": 4
     },
@@ -106,7 +105,6 @@
     }
   },
   "dependencies": {
-    "globby": "^8.0.1",
     "minimatch": "^3.0.4",
     "spellchecker": "^3.5.0"
   },

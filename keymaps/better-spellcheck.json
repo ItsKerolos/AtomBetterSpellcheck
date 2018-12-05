@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor:not([mini])": {
     "ctrl-alt-o": "better-spellcheck:suggestions"
   }
 }
