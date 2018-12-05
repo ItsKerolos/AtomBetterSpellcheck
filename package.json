@@ -99,13 +99,15 @@
           "description": "ALLCaps",
           "type": "boolean",
           "default": true,
-           "order": 3
+          "order": 3
         }
       },
       "order": 5
     }
   },
   "dependencies": {
+    "globby": "^8.0.1",
+    "minimatch": "^3.0.4",
     "spellchecker": "^3.5.0"
   },
   "devDependencies": {

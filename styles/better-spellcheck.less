@@ -1,20 +1,44 @@
+@import "ui-variables";
+
 .better-spellcheck-typo .region
 {
   box-sizing: border-box;
-  border-bottom: #d0dd21 2px solid;
+  border-bottom: @text-color-warning 2px solid;
 }
 
 .better-spellcheck-gutter
 {
   box-sizing: border-box;
-  border-left: #d0dd21 2px solid;
+  border-left: @text-color-warning 2px solid;
 }
 
-.better-spellcheck-markerItem
+.better-spellcheck-suggestionsConstrainer
 {
   position: absolute;
 
-  background-color: red;
-  width: 100px;
-  height: 100px;
+  background-color: transparent;
+  width: max-content;
+
+  height: auto;
+  max-height: 150px;
+
+  border: 2px @pane-item-border-color solid;
+
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+
+.better-spellcheck-suggestion
+{
+  color: @text-color;
+  background-color:  @tool-panel-background-color;
+
+  font-size: 12px;
+
+  padding: 3px 14px;
+}
+
+.better-spellcheck-suggestion:hover
+{
+  background-color: @button-background-color;
 }
