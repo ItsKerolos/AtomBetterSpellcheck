@@ -14,7 +14,7 @@
   ],
   "repository": "https://gitlab.com/ker0olos/atom-better-spellcheck",
   "configSchema": {
-    "knownWords": {
+    "personal": {
       "title": "Known Words",
       "type": "array",
       "description": "List of words to ignore during spellchecking",
@@ -61,9 +61,9 @@
       "type": "array",
       "description": "List of paths/files to ignore",
       "default": [
-        "**/package-lock.json",
+        "**/.git/**",
         "**/node_modules/**",
-        "**/.git/**"
+        "**/package-lock.json"
       ],
       "order": 3
     },
@@ -74,39 +74,11 @@
       "default": 25000,
       "minimum": 1,
       "order": 4
-    },
-    "cases": {
-      "title": "Ignore Cases",
-      "type": "object",
-      "properties": {
-        "camelCase": {
-          "title": "Camel Case",
-          "description": "camelCase",
-          "type": "boolean",
-          "default": true,
-          "order": 1
-        },
-        "snakeCase": {
-          "title": "Snake Case",
-          "description": "snake_case",
-          "type": "boolean",
-          "default": true,
-          "order": 2
-        },
-        "allCase": {
-          "title": "All Caps",
-          "description": "ALLCaps",
-          "type": "boolean",
-          "default": true,
-          "order": 3
-        }
-      },
-      "order": 5
     }
   },
   "dependencies": {
     "minimatch": "^3.0.4",
-    "spellchecker": "^3.5.0"
+    "nspell": "^2.1.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
