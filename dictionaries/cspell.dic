@@ -14796,6 +14796,7 @@ C/SM
 Csonka/M
 CS_PYCC
 CSS
+css
 CSSBorder
 CSSParser
 CSSParserCallback
@@ -18040,6 +18041,8 @@ doctor/SMDG
 doctrinaire/MS
 doctrinal
 doctrine/MS
+DOCTYPE
+doctype
 DOCTYPE_PUBLIC
 DOCTYPE_SYSTEM
 docudrama/SM
@@ -40130,6 +40133,8 @@ Javanese/M
 JAVA_OBJECT
 javaRemoteObjectMimeType
 JavaScript/M
+Javascript
+javascript
 JavaSecurityAccessImpl
 javaSerializedObjectMimeType
 Java/SM
@@ -47398,6 +47403,7 @@ Mitzi/M
 mixed/U
 Mixer
 mixer/M
+mixin
 MixerProvider
 Mixtec/M
 mixture/SM
@@ -48488,6 +48494,7 @@ mozzarella/M
 mp
 m_parsecommadelimited
 MPEG
+mpeg
 mpg
 mph
 MP/M
@@ -52498,6 +52505,7 @@ ofYears
 Ogbomosho/M
 Ogden/M
 ogg://
+ogg
 Ogham
 OGHAM
 Ogilvy/M
@@ -59382,6 +59390,7 @@ PW
 pwn/SGD
 Pwrite
 PX
+px
 px_close
 px_create_fp
 px_date2string
@@ -62139,6 +62148,7 @@ RenderContext
 RenderedImage
 RenderedImageFactory
 Renderer
+renderer
 RenderingHints
 rendering/M
 render/SGMDJ
@@ -73373,6 +73383,7 @@ subcutaneous/Y
 subdivide
 subdivide/GDS
 subdivision/SM
+subdirectory
 subdominant
 subdue/DSG
 subeditor/S
@@ -82350,6 +82361,7 @@ Watts/M
 Watt/SM
 Watusi/M
 Waugh/M
+wav
 Wave
 WAVE
 waveband/S
