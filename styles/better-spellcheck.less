@@ -8,8 +8,24 @@
 
 .better-spellcheck-gutter
 {
-  box-sizing: border-box;
-  border-left: @text-color-warning 2px solid;
+  display: flex;
+  
+  color: @text-color-warning;
+
+  font-size: 0.7em;
+  align-self: center;
+}
+
+.better-spellcheck-gutter:before
+{
+  align-self: center;
+
+  width: 1em;
+  height: 1em;
+
+  font-size: 1em;
+
+  margin: 0;
 }
 
 .better-spellcheck-correctionsConstrainer

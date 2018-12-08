@@ -2,7 +2,7 @@
   "name": "better-spellcheck",
   "main": "./lib/better-spellcheck.js",
   "version": "0.1.0",
-  "description": "Better spellchecking and suggestions for Atom",
+  "description": "Spellchecking and corrections for Atom",
   "author": "Kerolos Zaki <kerolos4zaki@gmail.com>",
   "license": "MIT",
   "engines": {
