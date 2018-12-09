@@ -37,8 +37,8 @@
 
   height: auto;
   max-height: 150px;
-
-  border: 2px @pane-item-border-color solid;
+  
+  box-shadow: 0 2px 8px 1px fade(@pane-item-border-color, 60%);
 
   overflow-x: hidden;
   overflow-y: visible;
@@ -52,7 +52,6 @@
   font-size: 12px;
 
   padding: 3px 14px;
-  box-shadow: 0 2px 8px 1px fade(@app-background-color, 30%);
 }
 
 .better-spellcheck-correction:hover
