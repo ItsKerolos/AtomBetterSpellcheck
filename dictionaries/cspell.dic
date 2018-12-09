@@ -20004,6 +20004,8 @@ exquisiteness/M
 exquisite/YP
 ext
 Ext
+extdir
+extname
 EXTA
 extant
 EXTB
@@ -30328,6 +30330,7 @@ HOME
 homebody/SM
 homeboy/SM
 homecoming/SM
+homedir
 homegrown
 homeland/MS
 homeless/MP
@@ -31279,6 +31282,8 @@ Idahoes
 Idaho/SM
 Ida/M
 idate
+Ide
+ide
 IDE
 idealism/M
 idealistic
@@ -44053,6 +44058,7 @@ nuisance/MS
 nuke/MGDS
 Nukualofa/M
 Null
+null
 NULL
 nulla
 nullable
@@ -46378,6 +46384,8 @@ paralysis/M
 paralytic/SM
 paralyze/DSG
 paralyzing/Y
+Param
+param
 PARAM
 Paramaribo/M
 paramecia
@@ -66132,6 +66140,7 @@ TypeChar
 TypeConstraintException
 TypeCont
 TypeConvertingMethodAdapter
+typedef
 TypedefType
 TypeDir
 TypeDylib
@@ -66252,6 +66261,7 @@ ugly/RTP
 uh
 uhf
 UHF/M
+UI
 UID
 UIDefaults
 Uighur/M
@@ -66418,6 +66428,7 @@ undaunted/Y
 undecided/SM
 UNDECIMBER
 UndeclaredThrowableException
+undefined
 UNDEFINED
 UndefinedProperty
 Undelete
