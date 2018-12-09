@@ -10,7 +10,10 @@
   },
   "keywords": [
     "spellcheck",
-    "spell-check"
+    "spell-check",
+    "spellchecker",
+    "spell checker",
+    "spelling"
   ],
   "repository": "https://gitlab.com/ker0olos/atom-better-spellcheck",
   "configSchema": {
@@ -78,7 +81,7 @@
   },
   "dependencies": {
     "minimatch": "^3.0.4",
-    "nspell": "^2.1.1"
+    "nodehun": "^2.0.12"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
