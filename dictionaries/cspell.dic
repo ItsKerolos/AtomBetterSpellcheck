@@ -1908,6 +1908,8 @@ Alsatian/SM
 also
 Alsop/M
 Alston/M
+Alt
+alt
 Altaic/M
 Altai/M
 Altair/M
@@ -3876,6 +3878,8 @@ AttrProducer
 AttrPrototyped
 AttrRanges
 AttrReturnAddr
+Attrs
+attrs
 AttrSegment
 AttrSibling
 AttrSpecification
@@ -9335,6 +9339,9 @@ ChangeEvent
 ChangeHandler
 changeHighlight
 changeless/Y
+Changelog
+changelog
+CHANGELOG
 changeling/SM
 ChangeListener
 ChangeListenerMap
@@ -10490,6 +10497,9 @@ cleverness/M
 clever/PTRY
 clevis/MS
 clew/SGMD
+Cli
+cli
+CLI
 Cliburn/M
 cliche/MDS
 CLICK
@@ -13690,6 +13700,7 @@ CT/M
 ctn
 ctr
 CtrlVal
+ctrl
 ctrlx
 ctrlx1
 ctrlx2
@@ -15438,6 +15449,9 @@ Detroit/M
 deuce/SM
 deuterium/M
 Deuteronomy/M
+dev
+Dev
+DEV
 Devanagari
 DEVANAGARI
 Devanagari/M
@@ -18771,6 +18785,9 @@ EnumValue
 enunciate/DSGN
 enunciation/M
 enuresis/M
+Env
+env
+ENV
 ENVELOPE
 ENVELOPED
 enveloper/M
@@ -19230,6 +19247,10 @@ ESHLIBVERS
 ESHUTDOWN
 Eskimo/MS
 ESL
+Eslint
+ESLint
+eslint
+ESLINT
 E/SM
 Esmeralda/M
 ESOCKTNOSUPPORT
@@ -19721,8 +19742,12 @@ excusably/I
 excuse/DSBMG
 excused/U
 EXDEV
+Exe
+exe
+EXE
 exec
 Exec
+EXEC
 ExecContext
 Execer
 ExecerContext
@@ -27495,7 +27520,14 @@ Giselle/M
 Gish/M
 gist/M
 gite/S
-GitHub/M
+Github
+github
+GitHub
+GITHUB
+Gitlab
+gitlab
+GitLab/M
+GITLAB
 git/S
 Giuliani/M
 Giuseppe/M
@@ -27686,6 +27718,10 @@ GlyphVector
 GlyphView
 gm
 GMAT
+gmail
+Gmail
+GMail
+GMAIL
 gmdate
 GM/M
 gmmktime
@@ -30751,6 +30787,8 @@ HttpExchange
 HttpHandler
 httplib
 HttpRetryException
+https
+https://
 HTTPS
 HttpsURLConnection
 httptest
@@ -40692,6 +40730,7 @@ minicab/S
 minicam/MS
 minicomputer/SM
 minifloppies
+minified
 minim
 MinimalHTMLWriter
 minimalism/M
@@ -44009,6 +44048,12 @@ Np/M
 npoints
 NPrintWriter
 NPR/M
+Npm
+npm
+NPM
+Npx
+npx
+NPX
 NR
 NRA
 NRC
@@ -51507,6 +51552,9 @@ readLock
 readLockInterruptibly
 ReadLockView
 readLong
+readme
+ReadMe
+README
 ReadMemStats
 ReadMessage
 ReadMIMEHeader
@@ -60361,6 +60409,8 @@ squish/GMDS
 squishy/RT
 srand
 Src
+src
+SRC
 SrcAtop
 SrcDirs
 SrcIn
@@ -62317,6 +62367,9 @@ Svengali/M
 Sven/M
 Sverdlovsk
 SVN/M
+Svg
+svg
+SVG
 swabbed
 swabbing
 swab/MS
@@ -66168,6 +66221,7 @@ TypeNotPresentException
 typeNullable
 typeNullableUnknown
 TypeObj
+typeof
 TypeOf
 TypeParameterElement
 typePredBasic
@@ -69877,6 +69931,7 @@ workroom/MS
 work's
 worksheet/MS
 workshop/MS
+workspace
 workshy
 works/M
 workstation/MS
