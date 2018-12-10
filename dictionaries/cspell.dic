@@ -12239,7 +12239,6 @@ Context
 ContextClientTrace
 ContextFinder
 ContextNotEmptyException
-Context parameters
 contextualization
 contextualize/DSG
 ContextualRenderedImageFactory
@@ -12566,7 +12565,6 @@ cordon/SMDG
 cordovan/M
 corduroy/MS
 corduroys/M
-== Core ==
 CORE
 CoreDump
 coreligionist/S
@@ -13833,7 +13831,6 @@ Curitiba/M
 curium/M
 curl
 CURL
-CURL context options
 curler/SM
 curlew/SM
 curlicue/DSMG
@@ -16546,7 +16543,6 @@ DOMURIReference
 DOMUserDataHandler
 DOMValidateContext
 DOMXPath
-== DOM/XSL/XPath extensions ==
 Donahue/M
 Donald/M
 Donaldson/M
@@ -22722,7 +22718,6 @@ FTC
 ftell
 ftok
 ftp://
-FTP context options
 ftp/ZGS
 ftruncate
 Ftruncate
@@ -30779,7 +30774,6 @@ HTTP
 HTTPBinding
 HttpConnectSocketImpl
 HttpContext
-HTTP context options
 HttpCookie
 HTTPEQUIV
 HTTPException
@@ -32533,7 +32527,6 @@ INHERIT
 InheritableThreadLocal
 inheritance/EM
 inheritances
-inherit doc
 inheritdoc
 Inherited
 INHERITED
@@ -37460,7 +37453,6 @@ ListModel
 ListMouseHandler
 ListMouseMotionHandler
 ListNode
-=== List of PHP functions ===
 Liston/M
 ListPainter
 ListPeer
@@ -41352,7 +41344,6 @@ MongoDB\BSON\fromJSON
 MongoDB\BSON\fromPHP
 MongoDB\BSON\toJSON
 MongoDB\BSON\toPHP
-MongoDB context options
 Mongolia/M
 Mongolian
 MONGOLIAN
@@ -45374,7 +45365,6 @@ othersDeletesAreVisible
 othersInsertsAreVisible
 othersUpdatesAreVisible
 otherwise
-=== Other Words and functions ===
 otherworldly
 otiose
 Otis/M
@@ -47678,7 +47668,6 @@ pharaoh/M
 Pharaoh/M
 pharaohs
 Pharaohs
-Phar context options
 PharException
 pharisaic
 Pharisaic
@@ -51971,7 +51960,6 @@ reflectAs
 reflect/GVSD
 reflection
 Reflection
-== Reflection API ==
 ReflectionClass
 ReflectionData
 ReflectionException
@@ -58402,7 +58390,6 @@ SimpleTypeVisitor6
 SimpleTypeVisitor7
 SimpleTypeVisitor8
 simplex
-== SimpleXML ==
 SimpleXMLElement
 SimpleXMLIterator
 simplicity/M
@@ -59415,7 +59402,6 @@ SockaddrUnix
 Socket
 SocketAddress
 SocketChannel
-Socket context options
 SocketControlMessage
 SocketDisableIPv6
 SocketException
@@ -60310,7 +60296,6 @@ sq
 Sq
 sql
 SQL
-SQL acceptable by 4D
 SQLClientInfoException
 SQLData
 SQLDataException
@@ -60324,7 +60309,6 @@ SQLiteDatabase
 SQLiteException
 SQLiteResult
 SQLiteUnbuffered
-== SQLLite ==
 SQLNonTransientConnectionException
 SQLNonTransientException
 SQLOutput
@@ -60434,7 +60418,6 @@ SSE/M
 ssh
 ssh2://
 SSLContext
-SSL context options
 SSLContextSpi
 SSLEngine
 SSLEngineResult
@@ -60573,7 +60556,6 @@ StandardMBean
 standardMetadataFormatName
 standard/MS
 StandardOpenOption
-== Standard PHP Lib. ==
 StandardProtocolFamily
 StandardSocketOptions
 StandardState
