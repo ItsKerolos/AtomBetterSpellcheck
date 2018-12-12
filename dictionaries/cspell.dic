@@ -5715,6 +5715,9 @@ Beyer/M
 beyond
 bey/SM
 bezel/MS
+bezier
+Bezier
+BEZIER
 bf
 BFF
 BGCOLOR
@@ -8024,6 +8027,9 @@ calamari/SM
 calamine/M
 calamitous/Y
 calamity/SM
+calc
+Calc
+CALC
 calcareous
 calciferous
 calcification/M
@@ -30734,6 +30740,8 @@ HP/M
 HPV
 HQ/M
 HR
+Href
+href
 HREF
 HRH
 Hrothgar/M
@@ -35596,6 +35604,8 @@ KeyException
 KeyFactory
 KeyFactorySpi
 keyFor
+keyframes
+Keyframes
 KeyHandler
 keyhole/MS
 KeyImpl
@@ -36473,6 +36483,8 @@ latitude/MS
 latitudinal
 latitudinarian/MS
 Lat/M
+Lato
+lato
 Latonya/M
 Latoya/M
 latrine/MS
@@ -49148,6 +49160,9 @@ prayerful/Y
 prayer/M
 pray/ZGDRS
 PRC/M
+pre
+Pre
+PRE
 preach/DRSZGL
 preacher/M
 preachment/M
@@ -51421,6 +51436,7 @@ razzmatazz/M
 RBClassLoader
 RBCollationTables
 RBI
+RBG
 Rb/M
 RBRACE
 RBRACK
@@ -52734,6 +52750,9 @@ rerecord/GDS
 rerunning
 resat
 RescaleOp
+Rescan
+rescan
+RESCAN
 rescanCurrentDirectory
 rescind/SDG
 rescission/M
@@ -52796,10 +52815,12 @@ resistor/MS
 resist/SMDRZG
 resit/S
 resitting
+Resizable
+resizable
 RESIZABLE
-Resizable2
-Resizable3
+Resize
 resize
+RESIZE
 resizeAndRepaint
 resizeFrame
 resold
@@ -53122,6 +53143,9 @@ RFC850
 RFC/S
 RFD
 Rf/M
+rgb
+RGB
+rgba
 RGBA
 RGBA64
 RGBA64At
@@ -60401,6 +60425,7 @@ SrcIn
 SrcOut
 SrcOver
 Srcset
+sRBG
 SRGB
 Srinagar/M
 sriracha
@@ -61575,6 +61600,8 @@ StyledTextAction
 StyledViewFactory
 styleName
 style's
+Stylesheet
+stylesheet
 StyleSheet
 StylesheetDestination
 StyleSheetUIResource
@@ -61672,6 +61699,7 @@ SubMapValueIterator
 submarginal
 submarine/MZRS
 submariner/M
+submenu
 submerge/GDS
 submergence/M
 submerse/GNDS
@@ -63297,6 +63325,7 @@ Tasha/M
 Tashkent/M
 Task
 TaskBar
+Taskbar
 task/GMDS
 taskmaster/MS
 taskmistress/MS
@@ -67410,8 +67439,15 @@ uteri
 uterine
 uterus/M
 Ute/SM
+Utf
+utf
+UTF
+Utf16
+Utf8
 utf16
 utf8
+UTF16
+UTF8
 UTFDataFormatException
 UTFMax
 util
@@ -68071,6 +68107,8 @@ viewfinder/SM
 viewing/SM
 ViewListener
 viewpoint/MS
+Viewport
+viewport
 VIEWPORT
 ViewportBorder
 ViewportChangeHandler
@@ -70294,6 +70332,8 @@ xi/SM
 xiv
 xix
 XL/M
+xlink
+Xlink
 X/M
 Xmas/MS
 xml

@@ -70,13 +70,21 @@
       ],
       "order": 3
     },
+    "delayCheck": {
+      "title": "Delay Spellcheck",
+      "type": "integer",
+      "description": "Delay the spellcheck after a document has changed before checking it (in milliseconds)",
+      "default": 1500,
+      "minimum": 0,
+      "order": 4
+    },
     "characterLimit": {
       "title": "Character Limit",
       "type": "integer",
       "description": "If a file has more than or equal to this character limit it won't be spellchecked",
       "default": 25000,
       "minimum": 1,
-      "order": 4
+      "order": 5
     }
   },
   "dependencies": {
