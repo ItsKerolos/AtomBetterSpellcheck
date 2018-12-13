@@ -29,6 +29,7 @@
       "type": "array",
       "description": "List of the grammars that will be spellchecked",
       "default": [
+        "null grammar",
         "c",
         "c++",
         "c#",
@@ -52,6 +53,7 @@
         "ruby",
         "ruby on rails",
         "scss",
+        "tasks",
         "typescript",
         "typescriptreact",
         "xml",
@@ -64,7 +66,6 @@
       "type": "array",
       "description": "List of paths/files to ignore",
       "default": [
-        "**/.git/**",
         "**/node_modules/**",
         "**/package-lock.json"
       ],
