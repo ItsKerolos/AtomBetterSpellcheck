@@ -35146,7 +35146,11 @@ joystick/SM
 JP
 JPanel
 JPasswordField
+Jpg
+jpg
+JPG
 jpeg
+Jpeg
 JPEG
 jpeg2wbmp
 JPEGHuffmanTable
@@ -55146,6 +55150,7 @@ ScrollableTabViewport
 scrollBackward
 scrollBackwardButton
 Scrollbar
+scrollbar
 ScrollBarButtonPainter
 ScrollBarListener
 ScrollbarPeer
@@ -69018,6 +69023,9 @@ WebServiceRefs
 website/SM
 web/SM
 Webster/MS
+Webkit
+webkit
+WebKit
 we'd
 wed/AS
 wedded/A
