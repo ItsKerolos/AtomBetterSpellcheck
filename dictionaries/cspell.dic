@@ -6650,6 +6650,8 @@ bookstore/MS
 bookworm/SM
 bool
 Bool
+Boolean
+boolean
 BOOLEAN
 BooleanAttribute
 BooleanControl
@@ -40773,6 +40775,9 @@ minivan/MS
 mink/MS
 minLength
 Min/M
+MinMax
+Minmax
+minmax
 Minn
 Minneapolis/M
 Minnelli/M
@@ -65907,6 +65912,8 @@ Tsongkhapa/M
 tsp
 tsunami/SM
 Tswana/M
+ttf
+TTF
 ttype
 ttys
 Tuamotu/M
@@ -70271,6 +70278,7 @@ WV
 WW
 WWI
 WWII
+www
 WWW/M
 WY
 Wyatt/M
